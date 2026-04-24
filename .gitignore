@@ -1,0 +1,30 @@
+# 🔐 Secrets
+.env
+
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Virtual environment
+etlenv/
+venv/
+.venv/
+
+# 🧪 Packaging
+*.egg-info/
+
+# 📊 Data / temp (add if needed)
+*.csv
+*.parquet
+
+# 🧠 IDE
+.vscode/
+
+# 🖥️ OS
+.DS_Store
+Thumbs.db
+
+# 🪵 Logs
+*.log
