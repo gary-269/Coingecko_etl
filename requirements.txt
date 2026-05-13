@@ -1,7 +1,6 @@
-requests==2.31.0
-pandas==2.1.4
-sqlalchemy==2.0.23
-psycopg2-binary==2.9.9
-python-dotenv==1.0.0
-schedule==1.2.1
-great-expectations==0.18.20
+psycopg2-binary
+pandas
+requests
+python-dotenv
+streamlit
+prefect
